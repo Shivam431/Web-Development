@@ -33,9 +33,9 @@
 
   #logo{
       float: left;
-      padding-top: 10px;
+      padding-top: 8px;
       padding-right: 10px;
-      padding-bottom: 6px;
+      padding-bottom: 4px;
       font-size: 1.1em;
       border-right: 1px solid #b4b4b4;
   }
@@ -71,7 +71,9 @@
       font-size: 2.5em;
       font-family: Arial, Helvetica, sans-serif;
       position: relative;
-      right: 2px;
+      right: 250px;
+      top: 5px;
+
   }
   
   .category-bar{
@@ -151,7 +153,7 @@
         float: right;
         position: relative;
         bottom: 300px;
-        right: -300px;
+        right: -400px;
         top: -200px;
         border-left: 1px solid #b4b4b4 ;
         padding: 0 10px 10px 10px;
@@ -165,5 +167,5 @@
 
     .watch-list img{
         position: relative;
-        left: 3px;
+
     }
